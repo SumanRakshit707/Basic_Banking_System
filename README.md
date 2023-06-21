@@ -16,9 +16,9 @@ link https://sumanrakshit707.github.io/Basic_Banking_System/
 use tecnology: HTML, CSS, Javascript
 
 This Project was given by THE SPARKS FOUNDATION
-  
-      https://www.thesparksfoundationsingapore.org/
+
+https://internship.thesparksfoundation.info/
    
 Under the Graduate Rotational Internship Program (GRIP)
 
-      https://www.thesparksfoundationsingapore.org/join-us/internship-positions/
+https://www.thesparksfoundationsingapore.org/join-us/internship-positions/
